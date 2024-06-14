@@ -1,0 +1,23 @@
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  
+  input {
+    width: 60px;
+    text-align: center;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
